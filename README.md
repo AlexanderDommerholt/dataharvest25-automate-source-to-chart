@@ -1,4 +1,6 @@
-# Dataharvest session: Using free tools to automate your data flows from source to chart
+# Dataharvest session: <br>Using free tools to automate your data flows from source to chart
+
+*Session by Gianna-Carina Gruen from [DW's Data Journalism Team](https://dw.com/data)*
 
 ### What you will learn:
 
