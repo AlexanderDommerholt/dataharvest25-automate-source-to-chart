@@ -5,8 +5,8 @@
 How to ...
 
 * collect data from a url
-* parse the data into the needed format using Python's pandas library
-* use Python's datawrapper library to create a chart
+* parse the data into the needed format using Python's `pandas` library
+* use Python's [`datawrapper` library](https://datawrapper.readthedocs.io/en/latest/user-guide/api.html#datawrapper.Datawrapper.update_description) to create a chart
 * set up the script to run automatically on [Github Actions](https://docs.github.com/en/actions/administering-github-actions/usage-limits-billing-and-administration#availability)
 
 
@@ -14,6 +14,7 @@ How to ...
 
 *Basic coding or Python knowlegde is helpful but not required*
 
+* required: Access to colab.google.com (if you already have a Google account that's available)
 * required: [Datawrapper API token](https://academy.datawrapper.de/article/225-what-you-can-do-with-our-api-and-how-to-use-it)
 * required: Github Account (if you want to set up the workflow to be automated)
 * optional: [Distill Browser Plugin](https://distill.io/) (if you want to set up the workflow on click)
