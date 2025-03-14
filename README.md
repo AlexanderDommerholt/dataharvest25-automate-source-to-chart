@@ -14,7 +14,7 @@ How to ...
 
 *Basic coding or Python knowlegde is helpful but not required*
 
-* required: Access to colab.google.com (if you already have a Google account, it's included)
+* required: Access to colab.google.com (if you already have a Google account, it's included), so you can open [this notebook](https://colab.research.google.com/drive/1ZHZ67xisRPs0fC4VW5FdudTogy9wzNeh?usp=sharing)
 * required: [Datawrapper API token](https://academy.datawrapper.de/article/225-what-you-can-do-with-our-api-and-how-to-use-it)
 * required: Github Account (if you want to set up the workflow to be automated)
 * optional: Code Text editor (if you want to code along in the session), like Atom or Sublime Text
@@ -23,7 +23,7 @@ How to ...
 
 ### Code & Data
 
-**Code**: To follow along, you'll need to make yourself a copy of this jupyter notebook on Google colab.
+**Code**: To follow along, you'll need to make yourself a copy of [this jupyter notebook on Google colab](https://colab.research.google.com/drive/1ZHZ67xisRPs0fC4VW5FdudTogy9wzNeh?usp=sharing).
 
 **Data source**: For this session, we'll be working with the [UNHCR data on arrivals to Europe via land and sea](https://data.unhcr.org/en/situations/europe-sea-arrivals), more specifically: with the URLs provided on the page to the json data
 
