@@ -17,6 +17,7 @@ How to ...
 * required: Access to colab.google.com (if you already have a Google account that's available)
 * required: [Datawrapper API token](https://academy.datawrapper.de/article/225-what-you-can-do-with-our-api-and-how-to-use-it)
 * required: Github Account (if you want to set up the workflow to be automated)
+* optional: Code Text editor (if you want to code along in the session), like Atom or Sublime Text
 * optional: [Distill Browser Plugin](https://distill.io/) (if you want to set up the workflow on click)
 
 
