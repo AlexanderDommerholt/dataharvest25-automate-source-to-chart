@@ -60,4 +60,6 @@ dw.update_description(
  source_url = 'https://data.unhcr.org/en/situations/europe-sea-arrivals',
 )
 
+dw.add_data(chart_id, df_merged_selected)
+
 dw.publish_chart(chart_id)
