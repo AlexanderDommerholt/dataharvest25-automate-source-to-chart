@@ -33,4 +33,12 @@ How to ...
 * sea arrivals: "https://data.unhcr.org/population/get/timeseries?widget_id=588957&sv_id=100&population_group=4797,5634&frequency=month&fromDate=2016-01-01"
 * land arrivals: "https://data.unhcr.org/population/get/timeseries?widget_id=588958&sv_id=100&population_group=4798&frequency=month&fromDate=2016-01-01"
 
+### Automation
 
+To automatically run your script on [Github Actions](https://docs.github.com/en/actions/administering-github-actions/usage-limits-billing-and-administration), you'll need three things (which are also included in this github repo and can be downloaded at the top.
+
+* your script as a `.py` file
+* a `requirements.txt` file
+* a `.yml` file wrapped into a folder .github/workflows
+
+You'll be adding all of them into a repository in your own Github account. Then switch to the "Actions" tab to see if your automation run started properly or whether there was an issue that needs debugging.
