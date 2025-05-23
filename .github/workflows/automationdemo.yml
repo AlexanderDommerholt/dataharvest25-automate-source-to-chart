@@ -20,6 +20,7 @@ jobs:
               requests
               pandas
               datawrapper
+              bs4
                
       - name: execute py script
         run: python ./UNCHR-Arrivals-Europe.py
