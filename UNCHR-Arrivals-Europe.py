@@ -3,7 +3,7 @@ import requests
 from datawrapper import Datawrapper
 from bs4 import BeautifulSoup
 
-dw = Datawrapper(access_token = "YOUR TOKEN HERE") #todo: add your own datawrapper API token
+dw = Datawrapper(access_token = "lY3KoQyKHqKH4jr3MGGpcPI9N6Bw5NT31ROUfg4UTi1Qddqq1BSZP4cB81LIYhUW") #todo: add your own datawrapper API token
 
 json_land_sea = "https://data.unhcr.org/population/get/timeseries?widget_id=588956&sv_id=100&population_group=4797,4798,5634&frequency=month&fromDate=2016-01-01"
 json_sea = "https://data.unhcr.org/population/get/timeseries?widget_id=588957&sv_id=100&population_group=4797,5634&frequency=month&fromDate=2016-01-01"
@@ -45,7 +45,7 @@ df_merged_selected = df_merged[['timestamp','individuals_sea','individuals_land'
 
 # ## Run for every update
 
-chart_id='' #todo: add your own chart ID here
+chart_id='4n6RG' #todo: add your own chart ID here
 
 latest_data_from_month = df_merged_selected.timestamp.max()
 
