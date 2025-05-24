@@ -17,8 +17,8 @@ How to ...
 *Basic coding or Python knowlegde is helpful but not required*
 
 * required: Access to colab.google.com (if you already have a Google account, it's included), so you can open [this notebook](https://colab.research.google.com/drive/1ZHZ67xisRPs0fC4VW5FdudTogy9wzNeh?usp=sharing)
-* required: [Datawrapper API token](https://academy.datawrapper.de/article/225-what-you-can-do-with-our-api-and-how-to-use-it)
-* required: Github Account (if you want to set up the workflow to be automated)
+* required: [Datawrapper API token](https://academy.datawrapper.de/article/225-what-you-can-do-with-our-api-and-how-to-use-it) (please set it up in ahead of the session)
+* required: Github Account (if you want to set up the workflow to be automated) (please set it up in ahead of the session)
 * optional: Code Text editor (if you want to code along in the session), like Atom or Sublime Text
 * optional: [Distill Browser Plugin](https://distill.io/) (if you want to set up the workflow on click)
 
